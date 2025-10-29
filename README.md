@@ -3,8 +3,10 @@
 ## Cel projektu
 Analiza predykcyjna zmiennej sensor_measurement_4 na podstawie odczytów pozostałych czujników z wykorzystaniem różnych metod regularyzacji w modelach regresji liniowej.
 
+W kontekście biznesowym projekt może wspierać monitorowanie i optymalizację procesów przemysłowych w oparciu o dane z czujników.
+
 ## Etapy 
-1. Przygotowanie danych - wczytanie i oczyszczenie datasetu, identyfikacja oraz eliminacja zmiennych nieprzydatnych do modelowania
+1. Przygotowanie danych - wczytanie i oczyszczenie zbioru, eliminacja zmiennych nieprzydatnych do modelowania
 
 2. Selekcja zmiennych - samodzielna analiza i dobór cech objaśniających z uzasadnieniem wykluczenia poszczególnych zmiennych
 
